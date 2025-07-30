@@ -46,7 +46,7 @@
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/taskflow.git
+git clone https://github.com/yourusername/taskflow.git](https://github.com/Keshav83/mern-task-manager
 cd taskflow
 2️⃣ Setup environment
 Create .env files in server/ and client/ with values:
@@ -86,20 +86,7 @@ Runs both client and server concurrently with auto-reload.
 bash
 Copy
 Edit
-taskflow/
-├── client/            # React Frontend
-│   ├── src/
-│   └── ...
-├── server/            # Express Backend
-│   ├── routes/
-│   ├── controllers/
-│   └── models/
-├── .env.example
-└── README.md
 🧪 API Overview
-POST /api/auth/register — Register new user
-
-POST /api/auth/login — Login
 
 GET /api/tasks — Fetch tasks
 
@@ -126,13 +113,8 @@ Built with ❤️ by Keshav Pareek
 
 ⭐️ Don't forget to star this repo if you like it!
 
-yaml
-Copy
-Edit
 
----
 
-Let me know if you want a minimal version, dark theme support showcase, or want to generate badges dynamically using [shields.io](https://shields.io/).
 
 
 
