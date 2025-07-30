@@ -1,0 +1,10 @@
+/* frontend/src/App.css */
+.App { text-align: center; }
+.App-header { background-color: #282c34; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: calc(10px + 2vmin); color: white; }
+.task-input-form { margin: 20px; }
+input { padding: 10px; font-size: 16px; }
+button { padding: 10px 15px; font-size: 16px; margin-left: 10px; cursor: pointer; }
+.task-list { list-style: none; padding: 0; }
+li { background: #444; margin: 10px; padding: 15px; display: flex; justify-content: space-between; align-items: center; border-radius: 5px; }
+li span { cursor: pointer; }
+li.completed span { text-decoration: line-through; color: #888; }
